@@ -1,3 +1,5 @@
+(I somehow was able to build all this through A.I  You are free to use this code , All i know is how the python files work and i am good at ai stuff actually)
+
 # Sonic Extract
 
 Sonic Extract is a video-to-audio converter project. It has a Flutter user interface and a Python server that uses FFmpeg to extract the audio track from a video.
